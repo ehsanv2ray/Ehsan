@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: orangered;
+}
+#id_1{
+ height: 20px;
+}
+#id_2{
+    height: 400px;
+    text-align: center;
+
+}
+#id_3{
+    width: 80%;
+    height: 100%;
+    background-color: cornsilk;
+    display: inline-block;
+    float:left;
+}
+#id_4{
+    width: 20%;
+    height: 100%;
+    background-color: coral;
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+#id_5{
+    height: 20px;
+    background-color: aqua;
+    text-align: center;
+    
+}
